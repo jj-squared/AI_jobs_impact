@@ -1,0 +1,56 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtualenv
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*~
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files you might not want to commit if they are very large
+# or if you prefer users to download them separately.
+# If they are small and essential for running, you can commit them.
+# national_M2024_dl.xlsx
+# onetsoc_to_AI_impact.xlsx
+# ^^^ Comment these out if you DO want to commit your data files.
+# Consider their size and if they are publicly available elsewhere.
+
+# Output files (if your script generates any)
+# *.html
+# *.png
