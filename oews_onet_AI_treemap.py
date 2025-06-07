@@ -301,7 +301,7 @@ else:
         tiling=dict(pad=1)
     ))
     fig.update_layout(
-        title_text='AI Impact (External Scores, Weighted Avg) - Hybrid Parent Sums',
+        title_text='AI Impact on Occupations Monitored by BLS(O*NET)',
         title_x=0.5, margin=dict(t=50, l=25, r=150, b=25)
     )
     print("Displaying treemap...")
